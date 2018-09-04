@@ -1,0 +1,14 @@
+.application-container {
+  text-align: center;
+  margin: auto;
+}
+
+.application-header{
+  padding: 45px 0 45px 0;
+  background: black;
+  color: white;
+}
+
+.application-content{
+  padding: 45px 0 45px 0;
+}
