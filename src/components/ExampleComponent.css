@@ -1,0 +1,14 @@
+.example-container {
+  text-align: center;
+  margin: auto;
+}
+
+.example-header{
+  padding: 45px 0 45px 0;
+  background: grey;
+  color: white;
+}
+
+.example-content{
+  padding: 45px 0 45px 0;
+}
